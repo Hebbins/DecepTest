@@ -47,11 +47,13 @@ _Describe the third step here (e.g., sending emails, viewing reports, etc.)._
 
 ## Example Templates
 
+- **Microsoft**
 - **SharePoint**
-- **DocuSign**
 - **OneDrive**
 - **Google**
-
+- **Google Drive**
+- **DocuSign**
+  
 You can modify existing templates or add your own to match the services your users commonly interact with.
 
 ---
