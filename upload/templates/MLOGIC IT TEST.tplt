@@ -1,0 +1,10 @@
+Hello {TARGET_NAME}
+
+
+This email was sent to {TARGET_EMAIL}
+
+Target Link: {TARGET_LINK}
+
+
+
+Random Generator: {RANDOM(32)}
